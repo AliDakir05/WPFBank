@@ -3,3 +3,4 @@ Posto un file DLL contenente i metodi e le Property della classe ContoCorrente:
 https://github.com/CarusoMatteo/Banca-Libreria-Temp
 
 Basta aggiungere il .dll come riferimento dentro al progetto.
+Nella stessa cartella dev'esserci il file .xaml (Aggiunge i commenti).
