@@ -1,0 +1,6 @@
+Per scaricare la Libreria:
+https://github.com/CarusoMatteo/LibreriaBanca-SoloFile.git
+
+Basta aggiungere il .dll come riferimento dentro al progetto.
+Nella stessa cartella dev'esserci il file .xaml (Aggiunge i commenti).
+Più informazioni nel file README della repository.
